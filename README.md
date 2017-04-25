@@ -1,4 +1,7 @@
-# api documentation for  [npm-quick-run (v1.16.0)](https://github.com/bahmutov/npm-quick-run#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-quick-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-quick-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-quick-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-quick-run)
+# npmdoc-npm-quick-run
+
+#### basic api documentation for  [npm-quick-run (v1.16.0)](https://github.com/bahmutov/npm-quick-run#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-quick-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-quick-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-quick-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-quick-run)
+
 #### Quickly run NPM script by prefix without typing the full name
 
 [![NPM](https://nodei.co/npm/npm-quick-run.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm-quick-run)
